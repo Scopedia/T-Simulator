@@ -5,7 +5,7 @@ ETS2 tarzi 3D tren kariyer oyunu. Game Development dersi donem projesi (Unity 6,
 Yuk ve yolcu tasi, para kazan, daha guclu lokomotif ve daha cok vagon al;
 buharlidan dizele, oradan elektrikliye gec.
 
-## Veri yapilari (hepsi elle yazildi, hazir koleksiyon yok)
+## Veri yapilari 
 
 | Oyunda | Yapi | Sinif |
 |---|---|---|
