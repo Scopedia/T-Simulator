@@ -1,0 +1,39 @@
+# Unity tarafindan uretilen klasorler (repoya girmez)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE dosyalari (Visual Studio / Rider kendisi yeniden uretir)
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build ciktilari
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-buildid.txt
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db

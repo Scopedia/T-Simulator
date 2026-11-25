@@ -1,0 +1,14 @@
+{
+    "name": "TSim.Runtime",
+    "rootNamespace": "TSim.Runtime",
+    "references": ["TSim.Collections", "TSim.Simulation", "Unity.InputSystem"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
